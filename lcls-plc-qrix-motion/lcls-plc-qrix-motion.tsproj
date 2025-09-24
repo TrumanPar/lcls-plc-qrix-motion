@@ -78,9 +78,16 @@
 				<Cpu CpuId="3" LatencyWarning="1000"/>
 				<IoIdleTask Affinity="#x00000008"/>
 			</Settings>
-			<Licenses>
+			<Licenses IgnoreProjectLicenses="true">
 				<Target>
+					<ManualSelect>{57BD9670-089D-434A-85CF-90A857EE0EFF}</ManualSelect>
+					<ManualSelect>{3FF18E97-7754-401B-93FB-70544DE28A13}</ManualSelect>
+					<ManualSelect>{B27B051A-CA6A-42EA-833E-82CC92903D83}</ManualSelect>
+					<ManualSelect>{66689887-CCBD-452C-AC9A-039D997C6E66}</ManualSelect>
 					<ManualSelect>{3EBB9639-5FF3-42B6-8847-35C70DC013C8}</ManualSelect>
+					<ManualSelect>{777F1598-583B-4503-99BB-7C02E0ABD97E}</ManualSelect>
+					<ManualSelect>{4C256767-E6E6-4AF5-BD68-9F7ABAD0C200}</ManualSelect>
+					<ManualSelect>{520DE751-9DB6-47CB-8240-BD5C466E7E64}</ManualSelect>
 				</Target>
 			</Licenses>
 			<Tasks>
